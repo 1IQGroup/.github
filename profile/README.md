@@ -1,9 +1,9 @@
-grupka studentów nie wie co robi
+grupka studentów nie wie co robi<br><br>
 
-aktualny projekt: Secure File Cloud - SFC
-projekt ma na celu stworzenie chmury do bezpiecznego przechowywania plików
+aktualny projekt: Secure File Cloud - SFC<br>
+projekt ma na celu stworzenie chmury do bezpiecznego przechowywania plików<br>
 
-członkowie:
+członkowie:<br>
 -Jakub Martyński (scrummaster)
 -Kacper Misiaszek
 -Diana Yarosh
