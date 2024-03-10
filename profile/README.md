@@ -1,4 +1,4 @@
-grupka studentów nie wie co robi<br>
+<h1>grupka studentów nie wie co robi</h1><br>
 <br>
 aktualny projekt: Secure File Cloud - SFC<br>
 projekt ma na celu stworzenie chmury do bezpiecznego przechowywania plików<br>
